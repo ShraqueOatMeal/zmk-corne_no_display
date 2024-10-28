@@ -81,7 +81,7 @@ layers:
   - END
   - PG DN
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGUI
   - {t: '$$mdi:transfer$$', type: trans}
   - INS
   - {t: '$$mdi:backspace-reverse-outline$$', type: held}
